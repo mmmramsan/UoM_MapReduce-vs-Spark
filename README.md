@@ -1,1 +1,1 @@
-# emr_mapreduce_spark
+# UoM_MapReduce-vs-Spark
