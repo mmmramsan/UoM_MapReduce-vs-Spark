@@ -53,4 +53,4 @@ LOAD DATA INPATH '<s3 bucket link>' OVERWRITE INTO TABLE delayedFlights;
 Now the data loaded to table, so we can run quaries
 
 
-
+##The airlines market has been faced losses due to the flight delay and there are many reasons for delaying a flight. In this Analysis, you need to analyse the various delay happens in airlines per year and run the queries as follows.
