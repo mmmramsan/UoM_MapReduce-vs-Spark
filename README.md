@@ -88,6 +88,7 @@ ORDER BY Year;
 ```
 ![img.png](MapReduce/AvgWeatherDelay.PNG)
 
+
 4. Year wise late aircraft delay from 2003-2010
 ```
 SELECT Year As Year, avg((LateAircraftDelay /ArrDelay)*100) As AvgLateAircraftDelay
@@ -97,6 +98,7 @@ GROUP BY Year
 ORDER BY Year;
 ```
 ![img.png](MapReduce/AvgLateAircraftDelay.PNG)
+
 
 5. Year wise security delay from 2003-2010
 ```
