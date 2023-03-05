@@ -64,6 +64,8 @@ WHERE Year >= 2003 AND Year <= 2010
 GROUP BY Year
 ORDER BY Year;
 ```
+![img.png](MapReduce/AvgCarrierDelay.png)
+
 
 2. Year wise NAS delay from 2003-2010
 ```
@@ -73,6 +75,8 @@ WHERE Year >= 2003 AND Year <= 2010
 GROUP BY Year
 ORDER BY Year;
 ```
+![img.png](MapReduce/AvgNASDelay.png)
+
 
 3. Year wise Weather delay from 2003-2010
 ```
@@ -82,6 +86,7 @@ WHERE Year >= 2003 AND Year <= 2010
 GROUP BY Year
 ORDER BY Year;
 ```
+![img.png](MapReduce/AvgWeatherDelay.png)
 
 4. Year wise late aircraft delay from 2003-2010
 ```
@@ -91,6 +96,7 @@ WHERE Year >= 2003 AND Year <= 2010
 GROUP BY Year
 ORDER BY Year;
 ```
+![img.png](MapReduce/AvgLateAircraftDelay.png)
 
 5. Year wise security delay from 2003-2010
 ```
@@ -100,3 +106,6 @@ WHERE Year >= 2003 AND Year <= 2010
 GROUP BY Year
 ORDER BY Year;
 ```
+![img.png](MapReduce/AvgSecurityDelay.png)
+
+
