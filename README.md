@@ -1,5 +1,7 @@
 # UoM_MapReduce-vs-Spark
 
+## MapReduce
+
 1. Connect to EMR Cluster though SSH
 
 ![img.png](MapReduce/EMR_Cluster_Hive.PNG)
@@ -111,3 +113,7 @@ ORDER BY Year;
 ![img.png](MapReduce/AvgSecurityDelay.PNG)
 
 
+
+## Spark
+
+1. Connect to EMR Cluster though SSH
